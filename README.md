@@ -1,4 +1,7 @@
 ## Hi there 👋
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 
 <!--
 **7luk/7luk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
