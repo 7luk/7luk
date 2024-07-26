@@ -1,5 +1,7 @@
 ## Hi there 👋
 [![Credly Badge](https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)]([badge_public_url](https://www.credly.com/badges/69ff1f5a-13d7-42fb-a845-ec654f902380))
+[![Credly Badge](https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](https://www.credly.com/badges/1803b54c-1158-4518-8a65-2904d2b86fad)
+[![Credly Badge](https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)
 
 
 <!--
