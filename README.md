@@ -1,6 +1,5 @@
 ## Hi there 👋
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+[![Credly Badge](https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)]([badge_public_url](https://www.credly.com/badges/69ff1f5a-13d7-42fb-a845-ec654f902380))
 
 
 <!--
